@@ -44,3 +44,8 @@ Naval Post Graduate School
 ### Research Farming
 
 ### Thesis
+
+## Git Repo
+- **Streamlit QRCode App:** [www.linkedin.com/in/katie-hernandez-b84408364](www.linkedin.com/in/katie-hernandez-b84408364)
+
+

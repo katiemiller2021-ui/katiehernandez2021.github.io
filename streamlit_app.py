@@ -33,15 +33,15 @@ if text:
     st.write(f'QR Code generated for {text}:')
     st.image(img)
     
-    #Also create a BytesIO version of the image
-    #This is needed so streamlit can download the image
+    #Create a BytesIO version of the image
     buf = BytesIO()
     img.save(buf, format="JPEG")
     byte_im = buf.getvalue()
 
-st.download_button(
-    label="Download QR Code",
-    data=byte_im,
-    file_name="qr_code.png",
-    mime="image/png"
-)
+    #Download button 
+    st.download_button(
+        label="Download QR Code",
+        data=byte_im,
+        file_name="qr_code.png",
+        mime="image/png"
+    )

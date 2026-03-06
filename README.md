@@ -46,6 +46,6 @@ Naval Post Graduate School
 ### Thesis
 
 ## Git Repo
-- **Streamlit QRCode App:** [https://katiehernandez2021appio-nj2tacvskux9rvpzek3kvz.streamlit.app/]
+- **Streamlit QRCode App:** [https://katiehernandez2021appio-nj2tacvskux9rvpzek3kvz.streamlit.app/](https://katiehernandez2021appio-nj2tacvskux9rvpzek3kvz.streamlit.app/)
 
 
